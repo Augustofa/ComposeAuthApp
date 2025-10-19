@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "773961613112",
+    "project_id": "mobile-dev-auth-test",
+    "storage_bucket": "mobile-dev-auth-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773961613112:android:ad77eac02ababc63d7cbcd",
+        "android_client_info": {
+          "package_name": "me.augusto.composeauthenticationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPDdUg_eo-1KsyjDTtaENNaqJusBvW6fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773961613112:android:db61da1565d2b4aed7cbcd",
+        "android_client_info": {
+          "package_name": "me.augusto.firebaseauthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPDdUg_eo-1KsyjDTtaENNaqJusBvW6fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
